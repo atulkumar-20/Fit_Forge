@@ -4,9 +4,13 @@ FitTrack is a comprehensive gym website built with the MERN (MongoDB, Express, R
 Features:-
 
 >BMI Calculator
+
 >Personalized Gym Plan Booking
+
 >User Profile Management
+
 >Responsive Design
+
 
 Tech Stack:-
 
